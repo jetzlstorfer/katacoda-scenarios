@@ -1,6 +1,6 @@
 {
   "title": "Dynatrace OneAgent Operator",
-  "description": "first scenario",
+  "description": "install the Dynatrace OneAgent Operator on a Kubernetes Cluster",
   "details": {
     "steps": [
       {
