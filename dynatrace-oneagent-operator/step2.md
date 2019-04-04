@@ -8,4 +8,4 @@
 
 1. Apply `kubectl create -f cr.yaml`{{execute}}
 
-
+1. Check if pods are running `kubectl get pods -n dynatrace -w`{{execute}}

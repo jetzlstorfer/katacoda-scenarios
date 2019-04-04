@@ -6,5 +6,5 @@
 
 1. create resources `kubectl create -f https://raw.githubusercontent.com/Dynatrace/dynatrace-oneagent-operator/$LATEST_RELEASE/deploy/kubernetes.yaml`{{execute}}
 
-1. show logs `kubectl -n dynatrace logs -f deployment/dynatrace-oneagent-operator`{{execute}}
+1. show logs (optional) `kubectl -n dynatrace logs -f deployment/dynatrace-oneagent-operator`{{execute}}
 
